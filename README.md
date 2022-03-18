@@ -1,5 +1,5 @@
 <h3 align="center">OSSU - Computer Science</h3>
-<h4 align="center">Introduction to Computer Science and Programming in Python</h4>
+<h4 align="center">MIT 6.0001 - Introduction to Computer Science and Programming in Python</h4>
 
 <br>
 
@@ -14,15 +14,15 @@
 
 </div>
 
+<p align="center">General problem-solving in python.
+  <br>
+</p>
+
 ---
 
 ## Resources
 
-- https://github.com/ossu/computer-science#introduction-to-programming
-- https://www.py4e.com/
-- https://github.com/csev/py4e
-
-### Charles Severance (instructor)
-
-- http://www.dr-chuck.com/
-- https://github.com/csev
+- https://github.com/ossu/computer-science#introduction-to-computer-science
+- https://courses.edx.org/dashboard
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm
+- https://invidious.weblibre.org/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
